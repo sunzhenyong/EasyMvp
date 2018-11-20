@@ -3,6 +3,8 @@
 * [紫竹张先生文集](README.md)
 * [你不中奖的原因找到了，都被人给贪污了](ni-bu-zhong-jiang-de-yuan-yin-zhao-dao-le-du-bei-ren-gei-tan-wu-le.md)
 * [非洲猪瘟到底可怕在什么地方](fei-zhou-zhu-wen-dao-di-ke-pa-zai-shen-me-di-fang.md)
+* [遛狗要栓绳，异烟肼倒逼中国养狗文明进步？](gou-yao-shuan-sheng-yi-yan-dao-bi-zhong-guo-yang-gou-wen-ming-jin-bu.md)
+* [崔永元手撕范冰冰 揭开了富人的税收黑幕](cui-yong-yuan-shou-si-fan-bing-bing-jie-kai-le-fu-ren-de-shui-shou-hei-mu.md)
 * [李咏和金庸都走了，生命无常，多陪陪家人](li-yong-he-jin-yong-du-zou-le-sheng-ming-wu-chang-duo-pei-pei-jia-ren.md)
 * [如何评价一次性购买133个车位的长沙业主](ru-he-ping-jia-yi-ci-xing-gou-mai-133-ge-che-wei-de-chang-sha-ye-zhu.md)
 * [载歌载舞，百人退房团当街庆贺](zai-ge-zai-wu-bai-ren-tui-fang-tuan-dang-jie-qing-he.md)
@@ -31,6 +33,4 @@
 * [为什么说哪怕年入百万，你的孩子一样要吃霉变食品](wei-shen-me-shuo-na-pa-nian-ru-bai-wan-ni-de-hai-zi-yi-yang-yao-chi-mei-bian-shi-pin.md)
 * [万人抢房的杭州，开始有人拉横幅退房了](wan-ren-qiang-fang-de-hang-zhou-kai-shi-you-ren-la-heng-fu-tui-fang-le.md)
 * [回顾百年历史，揭秘香港高房价的根源](hui-gu-bai-nian-li-shi-jie-mi-xiang-gang-gao-fang-jia-de-gen-yuan.md)
-* [崔永元手撕范冰冰 揭开了富人的税收黑幕](cui-yong-yuan-shou-si-fan-bing-bing-jie-kai-le-fu-ren-de-shui-shou-hei-mu.md)
-* [遛狗要栓绳，异烟肼倒逼中国养狗文明进步？](gou-yao-shuan-sheng-yi-yan-dao-bi-zhong-guo-yang-gou-wen-ming-jin-bu.md)
 
